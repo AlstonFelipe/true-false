@@ -40,3 +40,9 @@ while contagem < quantidade:
 print("Entraram:", entraram)
 print("Barradas:", barradas)
 print("Entraram sem convite:", sem_convite)
+
+
+
+
+
+
